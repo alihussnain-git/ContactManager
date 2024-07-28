@@ -59,6 +59,9 @@ yarn test
 ```
 yarn lint
 ```
+## Task
+You are going to build a React Native contact manager app. This app should ask a user if they wish to sync their phone contacts with the app. If the user selects yes, their saved contacts should auto populate within the app. If they select no, the contact list will be empty by default. A user should be able to add a new contact to the app - the page for adding a new contact should take a name, an email address, and a phone number. A user should be able to view an existing contact and edit their details, after they have saved/imported a contact. Ensure that the ability to edit a contact is properly implemented. The Contact List component should be fully tested.
+
 
 ## Solution
 This React Native contact manager app allows users to sync their phone contacts with the app. If the user chooses to sync, their saved contacts will auto-populate within the app. If not, the contact list will be empty by default. Users can add new contacts, including a name, email address, and phone number. Additionally, users can view and edit existing contacts, ensuring that the ability to edit a contact is properly implemented.
